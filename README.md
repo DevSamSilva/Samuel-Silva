@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/samuel-nascimento-05b94a263">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github">
-  </a>
+  
 </p>
 
 ---
